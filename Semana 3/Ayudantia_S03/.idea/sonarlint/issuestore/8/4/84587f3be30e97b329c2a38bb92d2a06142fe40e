@@ -1,0 +1,28 @@
+
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(¡şÏÖøÿÿÿÿ8İ„½Ì¢.
+m	java:S128:"LEnd this switch case with an unconditional break, return or throw statement.(©Ğ‘şÿÿÿÿ8İ„½Ì¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Äêßıÿÿÿÿ8İ„½Ì¢.
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(¾‹‚Âüÿÿÿÿ8İ„½Ì¢.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8İ„½Ì¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ö¸ëÿÿÿÿÿ8İ„½Ì¢.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¥äï8İ„½Ì¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îŞŒüşÿÿÿÿ8İ„½Ì¢.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Ã“Ôöÿÿÿÿÿ8İ„½Ì¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ê‹º¸üÿÿÿÿ8İ„½Ì¢.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ÅÆÁÔûÿÿÿÿ8İ„½Ì¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§“ÓÚ8İ„½Ì¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜óÉÑüÿÿÿÿ8İ„½Ì¢.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ£Âşÿÿÿÿ8İ„½Ì¢.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(™úòºøÿÿÿÿ8İ„½Ì¢.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(šÁ²Çÿÿÿÿÿ8İ„½Ì¢.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÜáÉy8İ„½Ì¢.
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8İ„½Ì¢.
+m	java:S1288"LEnd this switch case with an unconditional break, return or throw statement.(òï±êÿÿÿÿÿ8İ„½Ì¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜ıõİ8İ„½Ì¢.
+m	java:S1285"LEnd this switch case with an unconditional break, return or throw statement.(˜Çúÿÿÿÿ8İ„½Ì¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ¬’¹ÿÿÿÿÿ8İ„½Ì¢.
