@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Inventario {
+
     public List<Guitarra> listaGuitarras;
 
     public Inventario() {

@@ -35,8 +35,6 @@ public class SetDemo {
         return false;
     }
 
-
-
     public boolean contiene(int valor){
         int index = hashCode(valor) % buckets.length;
         ArrayList<Integer> bucket = buckets[index];
